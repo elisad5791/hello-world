@@ -5,6 +5,7 @@
             "name": "elisad5791"
         }
     ],
+    "license": "MIT",
     "require": {},
     "autoload": {
         "psr-4": {
